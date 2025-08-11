@@ -6,3 +6,10 @@
     padding: 10px;
     background-color: blue;
 }
+.content {
+    color: red;
+}
+
+.newClass {
+    background-color: green;
+}
