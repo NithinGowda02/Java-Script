@@ -6,3 +6,12 @@ div {
     color: #ffffff;
     text-align: center;
 }
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
