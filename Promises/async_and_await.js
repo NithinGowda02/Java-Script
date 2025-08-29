@@ -8,3 +8,4 @@ function greet(id) {
 async function welcome() {
     greet(1);    
 }
+
