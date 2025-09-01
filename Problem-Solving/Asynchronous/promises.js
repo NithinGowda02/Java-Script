@@ -14,4 +14,4 @@ getData().then((res) => {
         return getData()
     }).then((res) => {
         console.log(res);
-    })
+    });
